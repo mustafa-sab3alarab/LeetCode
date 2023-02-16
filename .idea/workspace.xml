@@ -5,7 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="782ab022-739a-4513-9d0a-17526ac54ba5" name="Changes" comment="solve ConcatenationOfArray problem">
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/ShuffleTheArray.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/FinalValueOfVariableAfterPerformingOperations.kt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -16,8 +16,8 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="Kotlin Class" />
         <option value="Kotlin File" />
+        <option value="Kotlin Class" />
       </list>
     </option>
   </component>
@@ -39,7 +39,7 @@
     &quot;last_opened_file_path&quot;: &quot;/Users/m7alarab/DataFiles/TheChancePlus/ProblemSolving/LeetCode&quot;
   }
 }</component>
-  <component name="RunManager" selected="Kotlin.ShuffleTheArrayKt">
+  <component name="RunManager" selected="Kotlin.FinalValueOfVariableAfterPerformingOperationsKt">
     <configuration name="BuildArrayFromPermutationKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="BuildArrayFromPermutationKt" />
       <module name="LeetCode" />
@@ -54,15 +54,15 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ConvertTheTemperatureKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ConvertTheTemperatureKt" />
+    <configuration name="DefangingAnIPAddressKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="DefangingAnIPAddressKt" />
       <module name="LeetCode" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="DefangingAnIPAddressKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="DefangingAnIPAddressKt" />
+    <configuration name="FinalValueOfVariableAfterPerformingOperationsKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="FinalValueOfVariableAfterPerformingOperationsKt" />
       <module name="LeetCode" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -77,11 +77,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Kotlin.FinalValueOfVariableAfterPerformingOperationsKt" />
         <item itemvalue="Kotlin.ShuffleTheArrayKt" />
         <item itemvalue="Kotlin.BuildArrayFromPermutationKt" />
         <item itemvalue="Kotlin.ConcatenationOfArrayKt" />
         <item itemvalue="Kotlin.DefangingAnIPAddressKt" />
-        <item itemvalue="Kotlin.ConvertTheTemperatureKt" />
       </list>
     </recent_temporary>
   </component>
@@ -118,5 +118,20 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="solve ConcatenationOfArray problem" />
     <option name="LAST_COMMIT_MESSAGE" value="solve ConcatenationOfArray problem" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="kotlin-function">
+          <url>file://$PROJECT_DIR$/src/main/kotlin/FinalValueOfVariableAfterPerformingOperations.kt</url>
+          <line>35</line>
+          <properties class="FinalValueOfVariableAfterPerformingOperations" method="finalValueAfterOperations3">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="7" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>
