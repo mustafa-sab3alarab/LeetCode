@@ -5,7 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="782ab022-739a-4513-9d0a-17526ac54ba5" name="Changes" comment="solve ConcatenationOfArray problem">
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/SubrectangleQueries.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/NumberOfGoodPairs.kt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -39,7 +39,7 @@
     &quot;last_opened_file_path&quot;: &quot;/Users/m7alarab/DataFiles/TheChancePlus/ProblemSolving/LeetCode&quot;
   }
 }</component>
-  <component name="RunManager" selected="Kotlin.SubrectangleQueriesKt">
+  <component name="RunManager" selected="Kotlin.NumberOfGoodPairsKt">
     <configuration name="BuildArrayFromPermutationKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="BuildArrayFromPermutationKt" />
       <module name="LeetCode" />
@@ -47,15 +47,15 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ConcatenationOfArrayKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ConcatenationOfArrayKt" />
+    <configuration name="FinalValueOfVariableAfterPerformingOperationsKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="FinalValueOfVariableAfterPerformingOperationsKt" />
       <module name="LeetCode" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="FinalValueOfVariableAfterPerformingOperationsKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="FinalValueOfVariableAfterPerformingOperationsKt" />
+    <configuration name="NumberOfGoodPairsKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="NumberOfGoodPairsKt" />
       <module name="LeetCode" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -77,11 +77,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Kotlin.NumberOfGoodPairsKt" />
         <item itemvalue="Kotlin.SubrectangleQueriesKt" />
         <item itemvalue="Kotlin.FinalValueOfVariableAfterPerformingOperationsKt" />
         <item itemvalue="Kotlin.ShuffleTheArrayKt" />
         <item itemvalue="Kotlin.BuildArrayFromPermutationKt" />
-        <item itemvalue="Kotlin.ConcatenationOfArrayKt" />
       </list>
     </recent_temporary>
   </component>
